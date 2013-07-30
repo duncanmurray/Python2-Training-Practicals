@@ -1,0 +1,9 @@
+>>> name = "duncan"
+>>> number = 86
+>>> print(name + number)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: cannot concatenate 'str' and 'int' objects
+>>> print(name + str(number))
+duncan86
+
