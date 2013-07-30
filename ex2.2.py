@@ -1,5 +1,7 @@
 #!/usr/local/bin/python
 
+# Page 7 of Exercise quide
+# Examine raw input
 # Ask for input
 var = raw_input("Please enter a value: ")
 

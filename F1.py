@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
 
+# Page 8 of Exercise quide
+# Find fuel consumption of an F1 car
+
 laps = 45
 consumption = 2.25
 #Print minimum fuel consumption

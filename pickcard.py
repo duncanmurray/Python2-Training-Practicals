@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
 
+# Page 3 of exercise guide
+# Display the cerd from a deck
+
 # Import Showcard module
 import Showcard
 

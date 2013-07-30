@@ -1,5 +1,7 @@
 #!/usr/local/bin/python
 # Python 2 version
+# Page 15 of exercise quide
+# Find out what day of the week a date is
 
 # Code for reading in the date */
 date = raw_input("Please enter date (DD/MM/YYYY): ")

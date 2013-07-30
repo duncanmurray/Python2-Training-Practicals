@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
 
+# Page 13 of exercise quide
+# Emulate a bank machine
+
 # Set the correct pin
 correct_pin = "1234" 
 

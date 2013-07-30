@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
 
+# Page 13 of exercise guide
+# Generate a list of numbers
+
 # Take input from user
 uservar = raw_input("Please enter an integer:")
 # Test if the input is an integer

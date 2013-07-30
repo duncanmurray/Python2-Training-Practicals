@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
 
+# Page 8 of Exercise quide
+# Find the height of a projectile
+
 from math import pi, tan, cos
 
 # aceleration due to gravity

@@ -1,5 +1,7 @@
 #!/usr/local/bin/python
 
+# Page 7 of Exercise Guide
+# Creating variables, lists and dictionaries
 # Set names in variables and print
 first_name = "duncan"
 last_name = "murray"

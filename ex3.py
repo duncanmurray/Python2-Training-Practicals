@@ -8,6 +8,10 @@ else:
     dir = os.environ['HOME']
 
 # Construct a portable wildcard pattern
+
+# Page 13 of exercise quide
+# loop through some string
+
 pattern = os.path.join(dir,'*')
 print pattern
 

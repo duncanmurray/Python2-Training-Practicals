@@ -1,5 +1,7 @@
 #!/usr/local/bin/python
 
+# Page 15 of exercise quide
+# Deterine if year is a leap year
 # Ask for a year
 year = int(input ('Please enter a year: '))
 
