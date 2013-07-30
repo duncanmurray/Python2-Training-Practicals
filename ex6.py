@@ -1,5 +1,6 @@
 #!/usr/local/bin/python
 # Exercise 6, string formatting and regular expressions
+# Page 32 of exercise manual
 import re
 
 infile = open('postcodes.txt', 'r')
