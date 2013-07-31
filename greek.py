@@ -24,9 +24,9 @@ for cname in greek:
         lchar = char.lower()
         uchar = char.upper()
 
-# My first way of doing it 
+        # My first way of doing it 
         print "%s %-12s %s %s" % (hexpos,cname,lchar,uchar)# TODO: replace this statement
-# A bit cleaner way
+        # A bit cleaner way
         print "%x %-12s %s %s" % (pos,cname,char.lower(),char.upper())
 
     except UnicodeEncodeError as err:
