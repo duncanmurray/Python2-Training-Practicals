@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-# Add the conteants of a file to a didtionary and pickle it to a file 
+# Add the contents of a file to a dictionary and pickle it to a file 
 # Exercise book page 36
 import re, pickle
 # Open our country file
